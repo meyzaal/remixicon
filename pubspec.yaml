@@ -22,9 +22,9 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   fonts:
-    - family:  RemixIcon
+    - family: RemixIcon
       fonts:
-       - asset: fonts/RemixIcon.ttf
+        - asset: fonts/RemixIcon.ttf
 
   # To add assets to your package, add an assets section, like this:
   # assets:
